@@ -34,7 +34,10 @@
     "list": {
         "font": "BPreplayBold.otf",
         "size": 24,
-        "color": "#3d354d"
+        "color": "#3d354d",
+        "selectedcolor": "#120F17"
     },
-    "displayVolumeNumbers": true
+    "displayBatteryPercentSymbol": true,
+    "displayVolumeNumbers": true,
+    "bottomBarTextColor": "#FFFFFF"
 }
